@@ -11,7 +11,7 @@ public class PracticalJavaApplication {
 		SpringApplication.run(PracticalJavaApplication.class, args);
 		System.out.println("hello github");
 		System.out.println("hello githubboot");
-	
+
 	}
 
 }
